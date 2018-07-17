@@ -1,2 +1,2 @@
-I2CUltrasound   KEYWORD1
-getDistance     KEYWORD2
+I2CUltrasound	KEYWORD1
+getDistance	KEYWORD2
